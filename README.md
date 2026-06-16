@@ -1,3 +1,4 @@
+
 # LemonPad
 Building a macropad that I can use to quickly open my favorite apps like Discord, Apple Music, and Youtube.
 
@@ -10,3 +11,9 @@ Bill of Materials:
  - 4x M3x16mm screws
 -   4x  [M3x5mx4mm heatset inserts](https://www.aliexpress.us/item/2255800046543591.html)
 
+IMAGES:
+![PCB Schematic](Images/PCB_Schematic.png)
+![PCB Design](Images/PCB_Design.png)
+![3D Render](Images/3D_Render.png)
+![Top Render](Images/Top_Render.png)
+![Bottom Render](Images/Bottom_Render.png)
